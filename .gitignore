@@ -1,0 +1,18 @@
+#gitignore
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
